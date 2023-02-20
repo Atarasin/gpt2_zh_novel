@@ -1,0 +1,6 @@
+data/*
+raw/*
+checkpoints/*
+pretrained/*
+flagged
+__pycache__
