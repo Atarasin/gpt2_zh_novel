@@ -2,6 +2,7 @@
 
 - transformers：4.24.0
 - datasets：2.6.1
+- python：3.10.9
 
 本次项目的主要目的为：使用金庸先生的14部小说对中文gpt-2模型进行fine-tuning，获得一个金庸小说生成器。
 
